@@ -28,7 +28,6 @@ namespace LINQStart
             {
                 Console.WriteLine("Name: {0} \nJob:{1} \nAge:{2}", h.Name, h.Description, h.Age);
             }
-
             Console.ReadLine();
         }
     }
